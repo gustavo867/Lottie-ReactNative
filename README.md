@@ -1,6 +1,6 @@
 ## Testing Lottie
--[x] Use lottie in expo
--[x] Create a button with a alert 
+- [x] Use lottie in expo
+- [x] Create a button with a alert 
 
 ## Pictures 
 
